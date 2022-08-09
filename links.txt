@@ -1,0 +1,2 @@
+https://docs.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery
+https://azure.microsoft.com/en-us/resources/whitepaper-adf-on-azuredevops/
