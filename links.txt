@@ -1,2 +1,4 @@
 https://docs.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery
 https://azure.microsoft.com/en-us/resources/whitepaper-adf-on-azuredevops/
+Github - https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects
+https://dev.to/arindam0310018/azure-charts-design-foundation-for-iac-and-devops-4cgi
